@@ -728,7 +728,7 @@ do
   ---@type table<string, vim.lsp.Config>
   local servers = {
     clangd = {},
-    pyright = {},
+    basedpyright = {},
     rust_analyzer = {},
     stylua = {}, -- Used to format Lua code
 
